@@ -1,7 +1,7 @@
 ## Overview
 
 Driver fatigue is one of the major causes of road accidents worldwide.  
-This project proposes an efficient, real-time driver fatigue detection system using MobileNetV2 and face-centric transfer learning techniques.  
+This project proposes an efficient, real-time driver fatigue detection system using MobileNetV2 and face-centric transfer learning techniques with MoleVit inspired transformer.  
 The lightweight yet powerful model can be deployed in real-world scenarios to enhance road safety.  
 This work is part of a research paper submitted to Springer for publication.
 
@@ -11,9 +11,10 @@ This work is part of a research paper submitted to Springer for publication.
 
 - Real-time driver fatigue detection  
 - Lightweight MobileNetV2 architecture optimized for edge deployment  
-- Face-centric transfer learning for improved accuracy  
+- Face-centric transfer learning for improved accuracy
+- MobileVit inspired transformer for global feature extraction  
 - Handles edge cases with custom self-collected images  
-- Achieves 91% accuracy on a combined dataset of 4,000+ images
+- Achieves 95% accuracy on a combined dataset of 4,000+ images
 
 ---
 
